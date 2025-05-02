@@ -1,4 +1,4 @@
-# Next.js Developer Portfolio
+# 🌐 Next.js Developer Portfolio
 
 This is a responsive web application built with **Next.js** as part of a final project for my Computer Programming diploma at Georgian College.
 
