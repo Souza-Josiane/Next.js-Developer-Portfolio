@@ -1,37 +1,44 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Next.js Developer Portfolio
 
-## Getting Started
+This is a responsive web application built with **Next.js** as part of a final project for my Computer Programming diploma at Georgian College.
 
-First, run the development server:
+The project showcases my development skills and includes dynamic features powered by external APIs.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🔗 Live Demo
+Access the live version of the project here: [nextjs-project-portfolio.vercel.app](https://final-project-js-zeta.vercel.app/)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📄 Pages and Features
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- **Home** – Introduction to the site
+- **About** – Brief overview about me
+- **Resume** – My background and experience
+- **Portfolio** – A showcase of mini-projects powered by APIs:
+  - Web Scraper: Timeline of programming languages (data from Wikipedia)
+  - Timezone Info: Current time based on user input
+  - Weather Info: Weather data by city name
+- **Movie** – Simple movie search page using an external movie API
+- **Blog** – Example blog posts (for layout demonstration)
+- **Contact** – Form layout for user messages
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 💡 Purpose
 
-## Learn More
+This project was built for educational purposes to demonstrate:
+- Routing and page structure in Next.js
+- Fetching and displaying API data
+- Component-based design
+- Responsive layout using modern CSS
 
-To learn more about Next.js, take a look at the following resources:
+## 🛠️ Technologies Used
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **Next.js**
+- **React**
+- **JavaScript**
+- **HTML/CSS**
+- **Vercel** for deployment
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+### 📫 Contact
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+If you'd like to know more about my work, feel free to connect with me!
 
