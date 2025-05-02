@@ -40,5 +40,5 @@ This project was built for educational purposes to demonstrate:
 
 ### 📫 Contact
 
-If you'd like to know more about my work, feel free to connect with me!
+If you'd like to know more about my work, feel free to connect with me at [**LinkedIn**](https://www.linkedin.com/in/josianesouza/)!
 
